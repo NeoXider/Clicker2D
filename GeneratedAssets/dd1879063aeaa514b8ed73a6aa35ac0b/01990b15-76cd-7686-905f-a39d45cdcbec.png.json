@@ -1,0 +1,20 @@
+{
+    "asset": "dd1879063aeaa514b8ed73a6aa35ac0b",
+    "fileName": "01990b15-76cd-7686-905f-a39d45cdcbec.png",
+    "prompt": "Slime with eyes anime style  for clicker with alpha background\n",
+    "negativePrompt": "",
+    "model": "e019af84-3249-4fe3-81bc-a1ba0323fdce",
+    "modelName": "GPT Image 1 - High",
+    "customSeed": -1,
+    "w3CTraceId": "5a54c46d0f9004c861d036eeb28ac9a6",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "dd1879063aeaa514b8ed73a6aa35ac0b",
+    "fileName": "01990b12-697a-7485-9b73-863d807c486f.png",
+    "prompt": "Slime with black eyes for clicker with alpha background\n",
+    "negativePrompt": "",
+    "model": "105d7d41-843c-4435-96a5-5f6624275470",
+    "modelName": "Anime",
+    "customSeed": -1,
+    "w3CTraceId": "1d3171846b518a1fa9df2200eb9370b7",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
