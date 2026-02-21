@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 189206393}
   - component: {fileID: 189206396}
   m_Layer: 0
-  m_Name: Slime
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ClickerGame
   score: 0
   clickPower: 1
-  penaltyAmount: 5
+  penaltyAmount: 2
   textScore: {fileID: 1814503261}
 --- !u!212 &189206394
 SpriteRenderer:
