@@ -10,7 +10,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/Assets/_AlgoNeoCourse
+/Assets/_AlgoNeoCourse/
 *.log
 
 # MemoryCaptures can get excessive in size.
